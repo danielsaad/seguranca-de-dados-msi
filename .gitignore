@@ -1,3 +1,5 @@
 .sass-cache
 _site
 .jekyll-cache
+*.lock
+_assignments/dummy_assignment.md
